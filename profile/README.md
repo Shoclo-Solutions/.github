@@ -1,4 +1,4 @@
-## Hi there 👋
+## Software made with sticks and tape for a more convenient way to live
 
 <!--
 
