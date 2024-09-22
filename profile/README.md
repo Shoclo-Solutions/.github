@@ -1,4 +1,4 @@
-## Software made with sticks and tape for a more convenient way to live
+## Software made for a more convenient way to live
 
 <!--
 
